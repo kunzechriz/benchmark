@@ -3,3 +3,8 @@ Date of Test: 2025-11-05 14:34:15
 Bubble Sort Time: 0.000307 seconds
 Quick Sort Time: 0.000002 seconds
 
+Computer Name: lenovoslim
+Date of Test: 2025-11-05 14:39:38
+Bubble Sort Time: 0.000004 seconds
+Quick Sort Time: 0.000002 seconds
+
